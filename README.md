@@ -61,7 +61,8 @@ The prediction of missing data, especially revenue expectations for future weeks
 
   ### Final Results and Insights
   
-The final results, particularly the chart displaying average cumulative revenue for the 12th week for all website visitors, offers a more comprehensive estimation of Customer Lifetime Value (CLV). This estimation encompasses all users, including those who did not make purchases.
+The final results, particularly the chart displaying average cumulative revenue for the 12th week for all website visitors, offers a more comprehensive estimation of Customer Lifetime Value (CLV). This estimation encompasses all users, including those who did not make purchases. 
+A notable insight from the analysis is that customers acquired between 2020-11-01 and 2020-12-12 brought in significantly more revenue, averaging $2.26. However, customers acquired during 2020-12-20 and 2021-01-16 generated considerably less revenue, only averaging $0.5. This atypical customer behavior, especially during the holiday season, raises questions about comparison shopping and alternative purchasing decisions. The stable web traffic during the holiday period, coupled with a substantial drop in revenue, indicates a potential shift in customer preferences. It's advisable to explore this further and consider whether the revenue data requires validation. It's possible that the customer acquisition channel in November 2020 was exceptionally effective, attracting more active visitors willing to spend.
 
  ## Recommendations
 Based on the insights and findings from this analysis, we propose the following recommendations:
@@ -77,6 +78,14 @@ The insights revealed fluctuations in user behavior and revenue. We recommend a 
   ### 3. ROI Assessment
   
 To ensure that Return on Investment (ROI) is met, it is imperative to regularly assess and align average revenue per customer with ROI expectations. This alignment will help in optimizing marketing expenditure and maximizing returns.
-4. CAC Break-Even Analysis
+
+### 4. CAC Break-Even Analysis
+
 Conduct a detailed analysis to determine if the company is breaking even on Customer Acquisition Costs (CACs). Ensuring that the revenue generated from acquired customers covers the cost of acquisition is critical for sustainable growth.
 By implementing these recommendations, the company can enhance its understanding of customer behavior, optimize marketing efforts, and maximize the value derived from its customer base. It's essential to keep monitoring and adapting to changing trends to ensure continued success in the highly dynamic world of e-commerce.
+
+### 5. In-Depth Customer Behavior Analysis
+
+Conduct a detailed analysis of customer behavior during the holiday season and the impact of customer acquisition channels. Investigate why customers acquired during the holiday season appear to spend less and consider whether they are exploring competitive options. This analysis will help in tailoring marketing strategies to align with customer preferences.
+
+
