@@ -1,7 +1,7 @@
-        Customer Lifetime Value (CLV) Analysis Project
+ Customer Lifetime Value (CLV) Analysis Project
 
 
-    **Introduction**
+**Introduction**
 
 
 This repository contains code and documentation for a Customer Lifetime Value (CLV) analysis project, driven by a growing recognition of the significance of cohort-based analysis. 
@@ -9,13 +9,13 @@ Cohort analysis provides a powerful lens through which to view the behavior of d
 
 The project will use data from the turing_data_analytics.raw_events table, and it is set in the context of the current week, which is assumed to be 2021-01-24 (the last weekly cohort available in the dataset).
 
-    **Project Objectives**
+ **Project Objectives**
 This project aims to address the following objectives:
 
-    1. Inclusion of All Users
+1. Inclusion of All Users
 To provide a more holistic view of customer behavior, the project will extend its analysis beyond just purchasers. It will consider all users who have visited the website, aligning with marketing's broader view of user registrations.
 
-    2. Weekly Cohort Analysis
+2. Weekly Cohort Analysis
 Recognizing that customer retention can vary over time, this project will focus on producing a weekly cohort-based analysis. It will investigate how long customers typically remain engaged with the ecommerce site, with an expectation that their engagement may not extend beyond 12 weeks.
 
     Task Details
@@ -33,39 +33,39 @@ The second phase revolves around cohort analysis and the visual representation o
 
 <img width="1266" alt="image" src="https://github.com/klavru/CLV/assets/128393456/a49fd458-6a57-43f7-a1ad-35391e09fe82">
 
-    2. Percentage Growth Calculation
+ 2. Percentage Growth Calculation
 - Calculate the percentage growth of revenue for each cohort over time, based on the average numbers calculated in the previous step.
 - Present this data in a visual chart.
 
 <img width="1266" alt="image" src="https://github.com/klavru/CLV/assets/128393456/194f5c31-833c-471c-98e5-1f1eacc09e2a">
 
 
-    Revenue Prediction
+ Revenue Prediction
 The third task focuses on predicting missing data. In this context, missing data refers to revenue expectations from user cohorts in the future, particularly for the 12 weeks following registration. To achieve this, we will rely on the cumulative growth percentages calculated in the previous step.
 
 <img width="1266" alt="image" src="https://github.com/klavru/CLV/assets/128393456/06682f7d-357e-4550-817e-be551a9e290b">
 
-    Conclusion
+ Conclusion
 In retrospect, the completion of this Customer Lifetime Value (CLV) analysis project has provided valuable insights and actionable recommendations based on past data and trends. The key findings and conclusions are as follows:
 
-    Data Retrieval and Cohort Analysis
+  Data Retrieval and Cohort Analysis
 The data retrieval and cohort analysis phase enabled us to gain a comprehensive understanding of customer behavior. It addressed previous limitations by including all website visitors, not just purchasers, and provided a granular, weekly view of customer retention.
 
-    Revenue Prediction
+  Revenue Prediction
 The prediction of missing data, especially revenue expectations for future weeks, was made possible by leveraging cumulative growth percentages. This aspect enhances our ability to estimate revenue for user cohorts with limited historical data.
 Final Results and Insights
 The final results, particularly the chart displaying average cumulative revenue for the 12th week for all website visitors, offers a more comprehensive estimation of Customer Lifetime Value (CLV). This estimation encompasses all users, including those who did not make purchases.
 
-    Recommendations
+ Recommendations
 Based on the insights and findings from this analysis, we propose the following recommendations:
 
-    1. Marketing Campaign Evaluation
+ 1. Marketing Campaign Evaluation
 In the past, we observed a significant drop in both the number of customers and revenue between the weeks of 2020-12-13 and 2020-12-20. To avoid such declines in the future, it's crucial to evaluate and potentially adjust marketing campaigns during critical periods.
     
-    2. Continual Monitoring and Adaptation
+  2. Continual Monitoring and Adaptation
 The insights revealed fluctuations in user behavior and revenue. We recommend a dynamic approach to marketing and product strategies. Continual monitoring and adaptation to changing user patterns will be essential for maintaining growth.
     
-    3. ROI Assessment
+  3. ROI Assessment
 To ensure that Return on Investment (ROI) is met, it is imperative to regularly assess and align average revenue per customer with ROI expectations. This alignment will help in optimizing marketing expenditure and maximizing returns.
 4. CAC Break-Even Analysis
 Conduct a detailed analysis to determine if the company is breaking even on Customer Acquisition Costs (CACs). Ensuring that the revenue generated from acquired customers covers the cost of acquisition is critical for sustainable growth.
