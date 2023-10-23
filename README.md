@@ -23,7 +23,7 @@ Recognizing that customer retention can vary over time, this project will focus 
    ## Task Details
 This section outlines the specific tasks and steps involved in this Customer Lifetime Value (CLV) analysis project.
 
-   ## Data Retrieval
+   ### Data Retrieval
 The first step of the project involves retrieving the necessary data through SQL queries to extract data for weekly revenue divided by registrations. Given that the website lacks a distinct registration concept, I will use the first visit to the website as the equivalent of registration. The user_pseudo_id will be utilized to differentiate between users. Once the data is obtained, conditional formatting will be applied.
 
    ### Cohort Analysis and Visualization
